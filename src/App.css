@@ -1,0 +1,13 @@
+body {
+  background-color: #78b5e7;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: blue;
+}
+
+label {
+  display: block;
+}
